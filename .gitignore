@@ -1,5 +1,7 @@
-/results
-
 *.html
-*.xml
-.idea/
+*.log
+*output.xml
+*.png
+*.pyc
+*.zip
+Results/

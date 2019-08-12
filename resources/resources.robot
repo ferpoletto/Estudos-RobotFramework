@@ -14,7 +14,6 @@ ${DBPass}
 ${DBHost}
 ${DBPort}
 
-
 *** Keywords ***
 Abrir navegador
         Open Browser                        about:blank     ${BROWSER}
@@ -24,7 +23,7 @@ Fechar navegador
         Close Browser
 
 Conectar a base de dados e gerar massa de dados
-        Connect To Database    pymysql    ${DBName}    ${DBUser}    ${DBPass}    ${DBHost}    ${DBPort}
+        Connect To Database                 pymysql    ${DBName}    ${DBUser}    ${DBPass}    ${DBHost}    ${DBPort}
         Execute sql script                  ../scripts/GerarMassaDados.sql
 
 Desconectar a base de dados e apagar dados usados no teste

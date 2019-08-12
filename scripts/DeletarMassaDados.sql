@@ -1,0 +1,1 @@
+INSERT INTO nome_tabela (lista-de-campos) VALUES (lista_dados)

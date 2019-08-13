@@ -1,0 +1,17 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.ExemploPabot Firefox :: Suite description                              
+==============================================================================
+CT01: Exemplo                                                         | FAIL |
+WebDriverException: Message: connection refused
+------------------------------------------------------------------------------
+Suites.ExemploPabot Firefox :: Suite description                      | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Suites                                                                | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\ADS\PycharmProjects\Robot-Framework\ExemploPabot\pabot_results\Suites.ExemploPabot Firefox\output.xml

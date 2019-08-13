@@ -1,0 +1,17 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.ExemploPabot IE :: Suite description                                   
+==============================================================================
+CT01: Exemplo                                                         | FAIL |
+Element with locator '//*[@id="tsf"]/div[2]/div/div[1]/div/div[1]/input' not found.
+------------------------------------------------------------------------------
+Suites.ExemploPabot IE :: Suite description                           | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Suites                                                                | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\ADS\PycharmProjects\Robot-Framework\ExemploPabot\pabot_results\Suites.ExemploPabot IE\output.xml

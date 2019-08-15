@@ -1,3 +1,6 @@
+
+#pabot --processes 2 login*.robot
+
 *** Settings ***
 Documentation             Suite description
 Resource                  ../resources/resources.robot
